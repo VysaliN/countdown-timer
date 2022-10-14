@@ -1,0 +1,25 @@
+div{
+    background-color: rgb(223, 207, 207);
+    margin-top: -20px;
+    height: 600px;
+  }
+  img{
+    margin-top:50px;
+  }
+  h2{
+    margin-left: -50px;
+  }
+  h4{
+    margin-left: -130px;
+  }
+  h5{
+    margin-left: -120px;
+  }
+  .time{
+    color:brown;
+    font-size: small;
+  }
+  .title{
+    color:black;
+    font-size: small;
+  }
